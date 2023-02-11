@@ -26,11 +26,11 @@
 ```mint
 ⠀⠀       🌴 Features 🌴
  -----------------------------------
- ╭─ 🚀 » fast and optimized
- ├─ ⚡ » beautiful UI
- ├─ 🦎 » upload your own themes
- ├─ ✏️ » easy to configure
- ╰─ 🍻 » full responsive
+ Porno free
+ Porno free
+ Porno free
+ Porno free
+ Porno free
 ```
 
 
