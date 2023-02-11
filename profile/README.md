@@ -24,11 +24,11 @@
 
 ### Features
 
-- 🚀 » fast and optimized
-- ⚡ » beautiful ui
-- 🦎 » upload your own themes
-- ✏️ » easy to configure
-- 🍻 » full responsive
+- 🚀  fast and optimized
+- ⚡  beautiful ui
+- 🦎  upload your own themes
+- ✏️  easy to configure
+- 🍻  full responsive
 
 
 
