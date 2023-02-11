@@ -10,8 +10,8 @@
 
 
 <div align="center"
-<a href="https://github.com/Pandaxyzzz/ZapperUI/releases/latest"><img src="https://img.shields.io/github/release/Pandaxyzzz/ZapperUI/all.svg?colorB=97CA00?label=version"></a>
-  <a href="https://github.com/Pandaxyzzz/ZapperUI/releases"><img src="https://img.shields.io/github/downloads/Pandaxyzzz/ZapperUI/total.svg?colorB=97CA00"></a>
+<a href="https://github.com/ZapperUI/ZapperUI/releases/latest"><img src="https://img.shields.io/github/release/ZapperUI/ZapperUI/all.svg?colorB=97CA00?label=version"></a>
+  <a href="https://github.com/ZapperUI/ZapperUI/releases"><img src="https://img.shields.io/github/downloads/ZapperUI/ZapperUI/total.svg?colorB=97CA00"></a>
   <a href="https://discord.gg/VnevqPp2Rr"><img src="https://img.shields.io/discord/1073929284797870140?label=chat&logo=discord&logoColor=discord"></a>
   <a href="https://www.reddit.com/r/ZapperUI"><img src="https://img.shields.io/reddit/subreddit-subscribers/ZapperUI?logo=reddit"></a>
 </div>
@@ -24,10 +24,10 @@
 
 
 ```mint
-⠀⠀       🌴 Features 🌴
+⠀⠀       ❗FEATURES❗
  -----------------------------------
  ╭─ 🚀 » fast and optimized
- ├─ ⚡ » beautiful UI
+ ├─ ⚡ » beautiful ui
  ├─ 🦎 » upload your own themes
  ├─ ✏️ » easy to configure
  ╰─ 🍻 » full responsive
